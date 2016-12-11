@@ -9,7 +9,7 @@
     "geom:bbox":"-71.55704,41.50006,-71.38054,41.654952",
     "geom:latitude":41.591326,
     "geom:longitude":-71.459471,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":64483586.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 31",
     "uscensus:sldlst":"031",
     "uscensus:statefp":"44",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688509
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488078,
     "wof:geomhash":"8b8e0ed79fd70a403655e10d96a80470",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688509
+        }
+    ],
     "wof:id":1108773187,
     "wof:lastmodified":1481488078,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688509,
     "wof:repo":"whosonfirst-data-constituency-us-ri",
     "wof:superseded_by":[],
     "wof:supersedes":[],

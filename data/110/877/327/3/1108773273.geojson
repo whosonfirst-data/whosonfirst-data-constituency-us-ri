@@ -9,7 +9,7 @@
     "geom:bbox":"-71.38744,41.56549,-71.21043,41.706908",
     "geom:latitude":41.63548,
     "geom:longitude":-71.310565,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":30889820.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 69",
     "uscensus:sldlst":"069",
     "uscensus:statefp":"44",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688509
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488086,
     "wof:geomhash":"71e6efcb72060ec197c8f05229eeb14e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688509
+        }
+    ],
     "wof:id":1108773273,
     "wof:lastmodified":1481488086,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688509,
     "wof:repo":"whosonfirst-data-constituency-us-ri",
     "wof:superseded_by":[],
     "wof:supersedes":[],

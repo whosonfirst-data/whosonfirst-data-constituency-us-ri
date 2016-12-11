@@ -9,7 +9,7 @@
     "geom:bbox":"-71.50437,41.437998,-71.38054,41.654952",
     "geom:latitude":41.566077,
     "geom:longitude":-71.436486,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":89465546.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 36",
     "uscensus:sldust":"036",
     "uscensus:statefp":"44",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688509
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488096,
     "wof:geomhash":"e3d6a68253be19ace6493ee5a7257f84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688509
+        }
+    ],
     "wof:id":1108773367,
     "wof:lastmodified":1481488096,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688509,
     "wof:repo":"whosonfirst-data-constituency-us-ri",
     "wof:superseded_by":[],
     "wof:supersedes":[],

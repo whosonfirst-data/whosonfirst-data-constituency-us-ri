@@ -9,7 +9,7 @@
     "geom:bbox":"-71.4679,41.85317,-71.41751,41.878569",
     "geom:latitude":41.86732,
     "geom:longitude":-71.441413,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":6858443.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 55",
     "uscensus:sldlst":"055",
     "uscensus:statefp":"44",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688509
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488083,
     "wof:geomhash":"06bd46f408a881158b35ec73376f1ab5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688509
+        }
+    ],
     "wof:id":1108773241,
     "wof:lastmodified":1481488083,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688509,
     "wof:repo":"whosonfirst-data-constituency-us-ri",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-71.40451,41.88075,-71.38022,41.89484",
     "geom:latitude":41.88782,
     "geom:longitude":-71.391007,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1788194.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 56",
     "uscensus:sldlst":"056",
     "uscensus:statefp":"44",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688509
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488083,
     "wof:geomhash":"97e0a7d86d10910d994189670286a75c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688509
+        }
+    ],
     "wof:id":1108773245,
     "wof:lastmodified":1481488083,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688509,
     "wof:repo":"whosonfirst-data-constituency-us-ri",
     "wof:superseded_by":[],
     "wof:supersedes":[],

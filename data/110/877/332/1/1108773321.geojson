@@ -9,7 +9,7 @@
     "geom:bbox":"-71.42794,41.8564,-71.36474,41.88069",
     "geom:latitude":41.867369,
     "geom:longitude":-71.397358,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":8645808.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 15",
     "uscensus:sldust":"015",
     "uscensus:statefp":"44",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688509
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488092,
     "wof:geomhash":"57f9e2428abb07e9d0b830fb4e9e29de",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688509
+        }
+    ],
     "wof:id":1108773321,
     "wof:lastmodified":1481488092,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688509,
     "wof:repo":"whosonfirst-data-constituency-us-ri",
     "wof:superseded_by":[],
     "wof:supersedes":[],

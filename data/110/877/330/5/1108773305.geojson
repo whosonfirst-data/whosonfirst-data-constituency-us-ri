@@ -9,7 +9,7 @@
     "geom:bbox":"-71.38324,41.86381,-71.33715,41.898593",
     "geom:latitude":41.884078,
     "geom:longitude":-71.356881,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":7860716.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 8",
     "uscensus:sldust":"008",
     "uscensus:statefp":"44",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688509
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488090,
     "wof:geomhash":"36aa9ec3ee931150a39f68d9cc24172f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688509
+        }
+    ],
     "wof:id":1108773305,
     "wof:lastmodified":1481488090,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688509,
     "wof:repo":"whosonfirst-data-constituency-us-ri",
     "wof:superseded_by":[],
     "wof:supersedes":[],

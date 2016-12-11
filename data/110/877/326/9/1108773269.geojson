@@ -9,7 +9,7 @@
     "geom:bbox":"-71.33387,41.679936,-71.20837,41.77614",
     "geom:latitude":41.728403,
     "geom:longitude":-71.282431,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":22128200.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 67",
     "uscensus:sldlst":"067",
     "uscensus:statefp":"44",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688509
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488086,
     "wof:geomhash":"63ad69b304d0e8de0c04e3a13b1eb27b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688509
+        }
+    ],
     "wof:id":1108773269,
     "wof:lastmodified":1481488086,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688509,
     "wof:repo":"whosonfirst-data-constituency-us-ri",
     "wof:superseded_by":[],
     "wof:supersedes":[],
